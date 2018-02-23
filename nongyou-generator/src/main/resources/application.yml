@@ -1,0 +1,6 @@
+server:
+  port: 8888
+  id: 1
+spring:
+  cache:
+    type: guava
